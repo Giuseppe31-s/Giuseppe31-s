@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Giuseppe Tinti
-- 🔭 Today I work as insurance company
+- 🔭 Working for an insurance company
 - 🌱 I am learning: Python Jupyter, Statistic, Data science, Stock Market 
 - 🤓 Studying: At UNICAP college
 
