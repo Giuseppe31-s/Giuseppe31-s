@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Giuseppe Tinti
 - 🔭 Working for an insurance company
-- 🌱 I am learning: Python Jupyter, Statistic, Data science, Stock Market 
+- 🌱 I am learning: Python Jupyter, Statistic, Data science, Stock Market, Business intelligence, Machine learning.  
 - 🤓 Studying: At UNICAP college
 
  <div>
