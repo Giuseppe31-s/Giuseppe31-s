@@ -22,4 +22,6 @@
 
   <a href = "mailto:giuseppe31tinti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+   
+    ![Snake animation](https://github.com/Giuseppe31-s/Giuseppe31-s/blob/output/github-contribution-grid-snake.svg)
 </div>
