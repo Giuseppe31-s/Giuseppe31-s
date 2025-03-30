@@ -1,6 +1,5 @@
 ## Hi there 👋, I am Giuseppe Tinti
 - 🌱 I am learning: Python Jupyter, Statistic, Data science, Stock Market, Business intelligence, Machine learning.  
-- 🤓 Studying: At UNICAP college
 
  <div>
   <a href="https://github.com/Giuseppe31-s">
